@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@phosphor-icons/react": "^2.0.9",
+    "@radix-ui/react-dialog": "^1.0.3",
+    "@radix-ui/react-radio-group": "^1.1.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "styled-components": "^6.0.0-rc.1"
